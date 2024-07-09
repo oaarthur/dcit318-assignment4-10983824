@@ -1,0 +1,10 @@
+C:\Users\Elvis\source\repos\Address book\bin\Debug\Address book.exe.config
+C:\Users\Elvis\source\repos\Address book\bin\Debug\Address book.exe
+C:\Users\Elvis\source\repos\Address book\bin\Debug\Address book.pdb
+C:\Users\Elvis\source\repos\Address book\obj\Debug\Address book.csproj.AssemblyReference.cache
+C:\Users\Elvis\source\repos\Address book\obj\Debug\Address_book.Form1.resources
+C:\Users\Elvis\source\repos\Address book\obj\Debug\Address_book.Properties.Resources.resources
+C:\Users\Elvis\source\repos\Address book\obj\Debug\Address book.csproj.GenerateResource.cache
+C:\Users\Elvis\source\repos\Address book\obj\Debug\Address book.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\source\repos\Address book\obj\Debug\Address book.exe
+C:\Users\Elvis\source\repos\Address book\obj\Debug\Address book.pdb

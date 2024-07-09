@@ -1,0 +1,10 @@
+C:\Users\Elvis\source\repos\Drawing App\bin\Debug\Drawing App.exe.config
+C:\Users\Elvis\source\repos\Drawing App\bin\Debug\Drawing App.exe
+C:\Users\Elvis\source\repos\Drawing App\bin\Debug\Drawing App.pdb
+C:\Users\Elvis\source\repos\Drawing App\obj\Debug\Drawing App.csproj.AssemblyReference.cache
+C:\Users\Elvis\source\repos\Drawing App\obj\Debug\Drawing_App.Form1.resources
+C:\Users\Elvis\source\repos\Drawing App\obj\Debug\Drawing_App.Properties.Resources.resources
+C:\Users\Elvis\source\repos\Drawing App\obj\Debug\Drawing App.csproj.GenerateResource.cache
+C:\Users\Elvis\source\repos\Drawing App\obj\Debug\Drawing App.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\source\repos\Drawing App\obj\Debug\Drawing App.exe
+C:\Users\Elvis\source\repos\Drawing App\obj\Debug\Drawing App.pdb
